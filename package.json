@@ -1,6 +1,6 @@
 {
   "name": "decimal-subtract",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Workaround for JavaScript's decimal numbers subtraction problem.",
   "main": "dist/index.js",
   "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
