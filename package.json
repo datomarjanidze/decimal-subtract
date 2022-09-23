@@ -1,17 +1,17 @@
 {
-  "name": "decimal-subtraction",
-  "version": "1.0.0",
+  "name": "decimal-subtract",
+  "version": "1.0.1",
   "description": "Workaround for JavaScript's decimal numbers subtraction problem.",
   "main": "dist/index.js",
   "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/datomarjanidze/decimal-subtraction#readme",
+  "homepage": "https://github.com/datomarjanidze/decimal-subtract#readme",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datomarjanidze/decimal-subtraction.git"
+    "url": "git+https://github.com/datomarjanidze/decimal-subtract.git"
   },
   "keywords": [
     "decimal",
@@ -19,7 +19,7 @@
     "subtraction"
   ],
   "bugs": {
-    "url": "https://github.com/datomarjanidze/decimal-subtraction/issues"
+    "url": "https://github.com/datomarjanidze/decimal-subtract/issues"
   },
   "devDependencies": {
     "@types/node": "^18.7.18",
