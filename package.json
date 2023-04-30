@@ -1,6 +1,6 @@
 {
   "name": "decimal-subtract",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Workaround for JavaScript's decimal numbers subtraction problem.",
   "main": "dist/decimal-subtract.cjs.js",
   "module": "dist/decimal-subtract.esm.js",
@@ -8,6 +8,9 @@
   "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/datomarjanidze/decimal-subtract#readme",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "rimraf dist && rollup --config rollup.config.ts --configPlugin @rollup/plugin-typescript"
   },
