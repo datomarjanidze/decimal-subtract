@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "ES2022",
-    "moduleResolution": "classic",
+    "moduleResolution": "node",
     "target": "ES2022"
   },
   "include": ["src/**/*", "rollup.config.ts"]
