@@ -1,4 +1,4 @@
-## Decimal Subtract v1.3.2 documentation
+## Decimal Subtract v1.3.3 documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/decimal-subtract" target="_blank"><img src="https://img.shields.io/npm/v/decimal-subtract.svg" alt="NPM Version" /></a>
@@ -30,7 +30,7 @@ For script tag usage include the following script:
 <!DOCTYPE html>
 <html>
   <body>
-    <script src="https://cdn.jsdelivr.net/npm/decimal-subtract@1.3.2/dist/decimal-subtract.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/decimal-subtract@1.3.3/dist/decimal-subtract.min.js"></script>
   </body>
 </html>
 ```
@@ -41,15 +41,6 @@ ESM:
 
 ```ts
 import { decimalSubtract } from 'decimal-subtract'
-
-console.log(1 - 0.55) // 0.44999999999999996
-console.log(decimalSubtract(1, 0.55)) // 0.45
-```
-
-CJS:
-
-```ts
-const { decimalSubtract } = require('decimal-subtract')
 
 console.log(1 - 0.55) // 0.44999999999999996
 console.log(decimalSubtract(1, 0.55)) // 0.45
