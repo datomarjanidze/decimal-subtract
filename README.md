@@ -1,9 +1,8 @@
-## Decimal Subtract v1.4.0 Documentation
+## Decimal Subtract v1.5.0 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/decimal-subtract" target="_blank"><img src="https://img.shields.io/npm/v/decimal-subtract.svg" alt="NPM Version" /></a>
   <a href="https://www.npmjs.com/package/decimal-subtract" target="_blank"><img src="https://img.shields.io/npm/l/decimal-subtract.svg" alt="Package License" /></a>
-  <a href="https://www.npmjs.com/package/decimal-subtract" target="_blank"><img src="https://img.shields.io/npm/dm/decimal-subtract.svg" alt="NPM Downloads" /></a>
 </p>
 
 ### Table of contents
@@ -30,7 +29,7 @@ For script tag usage include the following script:
 <!DOCTYPE html>
 <html>
   <body>
-    <script src="https://cdn.jsdelivr.net/npm/decimal-subtract@1.4.0/dist/decimal-subtract.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/decimal-subtract@1.5.0/dist/decimal-subtract.min.js"></script>
   </body>
 </html>
 ```
