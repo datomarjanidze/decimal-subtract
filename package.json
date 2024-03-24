@@ -5,7 +5,7 @@
   "main": "dist/decimal-subtract.cjs.js",
   "module": "dist/decimal-subtract.esm.js",
   "types": "dist/decimal-subtract.d.ts",
-  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "author": "Dato Marjanidze",
   "license": "ISC",
   "homepage": "https://github.com/datomarjanidze/decimal-subtract#readme",
   "files": [
